@@ -1,0 +1,20 @@
+{
+  "name": "webhook-retry-and-replay-engine",
+  "version": "1.0.0",
+  "description": "Zero-dependency Node.js webhook HMAC-SHA256 verifier, idempotency guard, exponential backoff retry engine, and dead-letter queue.",
+  "type": "module",
+  "main": "demo.js",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "webhooks",
+    "hmac-sha256",
+    "dead-letter-queue",
+    "idempotency",
+    "rest-api"
+  ],
+  "license": "MIT"
+}
